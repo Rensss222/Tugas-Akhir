@@ -1,4 +1,4 @@
-# Tugas-Akhir : Menggambar Pola Bintang dengan Stambuk 2 Digit Terakhir dan Huruf Pertama Nama Depan
+# Tugas-Akhir
 
 Perulangan pertama (i), untuk membuat baris    
 
